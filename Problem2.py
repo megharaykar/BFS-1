@@ -1,6 +1,6 @@
 # https://leetcode.com/problems/course-schedule/description/
 
-# Time Complexity: O(n)
+# Time Complexity: O(V+E)
 # Space Complexity: O(n)
 
 class Solution:
